@@ -26,6 +26,7 @@ import Test1 from './githubDemo01.js'
 // var Test1 = require('./githubDemo01.js')
 import Test2 from  './githubDemo02-lift.js'
 import Test3 from './githubDemo03-bootOut-main'
+import Test4 from './githubDemo04-props-main'
 /**
  * render 绘制函数
  * 第二步引出继承类
@@ -34,7 +35,7 @@ export default class chrisRN extends Component {
     render() {
         return (
             <View>
-                <Test3/>
+                <Test4/>
             </View>
 
         );

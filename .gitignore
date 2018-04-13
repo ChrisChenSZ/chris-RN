@@ -53,6 +53,8 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+ios/build/
+android/build/
 
 # dotenv environment variables file
 .env
