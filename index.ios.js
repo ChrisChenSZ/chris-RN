@@ -24,6 +24,8 @@ import DemoLogin from './demo3_login.js'
 import DefaultTpl from './defaultTpl.js'
 import Test1 from './githubDemo01.js'
 // var Test1 = require('./githubDemo01.js')
+import Test2 from  './githubDemo02-lift.js'
+import Test3 from './githubDemo03-bootOut-main'
 /**
  * render 绘制函数
  * 第二步引出继承类
@@ -32,7 +34,7 @@ export default class chrisRN extends Component {
     render() {
         return (
             <View>
-                <Test1/>
+                <Test3/>
             </View>
 
         );
