@@ -18,6 +18,10 @@ import {
    import Demo1 from './demo1.js'
 //    import Demo2 from './demo2_text_input.js'
 import DemoLogin from './demo3_login.js'
+import TestImage from './githubDemo07-img'
+import Test9 from './githubDemo09-navigator'
+import Test12 from './githubDemo12-navigator-title2'
+import Test13 from './githubDemo13-navigator-rightBtn'
 /**
  * render 绘制函数
  * 第二步引出继承类
@@ -25,7 +29,7 @@ import DemoLogin from './demo3_login.js'
 export default class chrisRN extends Component {
     render() {
         return (
-            <DemoLogin/>
+           <Test13/>
         );
     }
 }

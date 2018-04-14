@@ -6,11 +6,52 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		LiY96NgwdfnGqCC0jzt1hS9cI0k=
+		RiowyqWODBWCWPG9J2WweGsoMeA=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		PS3LiVDSDhhJCSotJCHWtMxRKdc=
+		C38JrWy9ZJt69wBVN6q/WFjKEfM=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<data>
+		ooz0sIAaLKBGoFU5iKq8DR11NmY=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<data>
+		R/knOPjsjrJNiVtUa2S4kYE749M=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<data>
+		qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<data>
+		K7jOt4uC+lqy/StneXlQVk21axY=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		M3EBma1BpAxt7iGIjYcrm9BnNOc=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		5EUn1qFgVTwSkfSLCubcLwgrx0c=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		Etc/8BPenX54rv1uBx24u4bnqTg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -20,6 +61,26 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/chrisRNTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		5u6zJvzYrqCYWdSQiYfi1mUkUko=
+		</data>
+		<key>PlugIns/chrisRNTests.xctest.dSYM/Contents/Resources/DWARF/chrisRNTests</key>
+		<data>
+		WsgNdStczZEylg0HiqGoquRHisc=
+		</data>
+		<key>PlugIns/chrisRNTests.xctest/Info.plist</key>
+		<data>
+		0bx04s0lNH8EphboPRfnsQ+4rIA=
+		</data>
+		<key>PlugIns/chrisRNTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		ny1jJuVAsENRSPT/2Nt5AakF2QQ=
+		</data>
+		<key>PlugIns/chrisRNTests.xctest/chrisRNTests</key>
+		<data>
+		HzunacYAgRhLb6uCderueGuQvW8=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -27,22 +88,178 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LiY96NgwdfnGqCC0jzt1hS9cI0k=
+			RiowyqWODBWCWPG9J2WweGsoMeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			tunarCRGebu8qkMYrvWNElwB1ugBHjT6ucUWawRaonM=
+			kWBsK8q/bMemNPjCDSxgmCBiKUOPw5NzzHRwt6+Wbsg=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PS3LiVDSDhhJCSotJCHWtMxRKdc=
+			C38JrWy9ZJt69wBVN6q/WFjKEfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			mSBnJ/opal0KCNM9vxQHqIQHlCzSzyz2LDLnJtJhcE0=
+			sqVwO2vETQAlPxtOjwwLxv+eB9jFzg4KmANBmNv1+EA=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ooz0sIAaLKBGoFU5iKq8DR11NmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			QTZkTlnemyTcrFMb3v3GdQcfmpRodaOjtevd5TjxiiY=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R/knOPjsjrJNiVtUa2S4kYE749M=
+			</data>
+			<key>hash2</key>
+			<data>
+			wLDjbULmM78l0rN5jh2/yPax234qVZL29OQBQmdYmOU=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZARlo4LD/z4nYhaCEocjb6nPjuZDCrLsQzn0n4GVr3s=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K7jOt4uC+lqy/StneXlQVk21axY=
+			</data>
+			<key>hash2</key>
+			<data>
+			VzM0aDQjkmLy+IyPasdn9DeGkOOTuNMbKUMz+3efAaU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xsgm2dBly62EneiB04ryti89smi53XIXAOtYLFyW4ZE=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M3EBma1BpAxt7iGIjYcrm9BnNOc=
+			</data>
+			<key>hash2</key>
+			<data>
+			qAlGOWS6ltLA/WrYd4Rz6EHPivttCiNu41NTW7ulBAI=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5EUn1qFgVTwSkfSLCubcLwgrx0c=
+			</data>
+			<key>hash2</key>
+			<data>
+			55ZdMLgNGz7Q67XNAv/M4f4uXy0R2d5+tlHRhlkL8t4=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Etc/8BPenX54rv1uBx24u4bnqTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
+			</data>
+		</dict>
+		<key>PlugIns/chrisRNTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5u6zJvzYrqCYWdSQiYfi1mUkUko=
+			</data>
+			<key>hash2</key>
+			<data>
+			sfMFdmltToNxDnoLcJ0hXyLodzKaQYjupM/Lypl0IF8=
+			</data>
+		</dict>
+		<key>PlugIns/chrisRNTests.xctest.dSYM/Contents/Resources/DWARF/chrisRNTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WsgNdStczZEylg0HiqGoquRHisc=
+			</data>
+			<key>hash2</key>
+			<data>
+			f9ootQp7IOBV9lgjXthQwEu6nhedo04U5ifHKokpO44=
+			</data>
+		</dict>
+		<key>PlugIns/chrisRNTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0bx04s0lNH8EphboPRfnsQ+4rIA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZXiF31pSDq/7RbASxToKvpSfRehl+fcsWjUdQzNjbJI=
+			</data>
+		</dict>
+		<key>PlugIns/chrisRNTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ny1jJuVAsENRSPT/2Nt5AakF2QQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			YRTS2b9SLfTdfhVxviYmQhGOLaV+TSqMtZPJIcrajt8=
+			</data>
+		</dict>
+		<key>PlugIns/chrisRNTests.xctest/chrisRNTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HzunacYAgRhLb6uCderueGuQvW8=
+			</data>
+			<key>hash2</key>
+			<data>
+			tSur+R+fEsOnzqS1cPTqIgpCVhEUaOV1ap1zNTlkgPE=
 			</data>
 		</dict>
 	</dict>
