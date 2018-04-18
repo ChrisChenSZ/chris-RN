@@ -1,4 +1,6 @@
 import {StackNavigator} from "react-navigation";
+// import CardStackStyleInterpolator from 'react-navigation/src/views/CardStack/CardStackStyleInterpolator';
+
 import {
     View,
     Text,
@@ -62,6 +64,9 @@ const RootStack = StackNavigator(
     },
     {
         initialRouteName: 'Home',
+        // transitionConfig:()=>({
+        //     screenInterpolator:CardStackStyleInterpolator.forHorizontal
+        // })
     }
 );
 

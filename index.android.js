@@ -22,6 +22,8 @@ import TestImage from './githubDemo07-img'
 import Test9 from './githubDemo09-navigator'
 import Test12 from './githubDemo12-navigator-title2'
 import Test13 from './githubDemo13-navigator-rightBtn'
+import Test14 from './githubDemo14-navigator-modalScreen'
+import App from './index.app'
 /**
  * render 绘制函数
  * 第二步引出继承类
@@ -29,7 +31,7 @@ import Test13 from './githubDemo13-navigator-rightBtn'
 export default class chrisRN extends Component {
     render() {
         return (
-           <Test13/>
+           <App/>
         );
     }
 }

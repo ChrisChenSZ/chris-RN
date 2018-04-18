@@ -35,6 +35,9 @@ import Test10 from './githubDemo10-navigator-params.js'
 import Test11 from './githubDemo11-navigator-title.js'
 import Test12 from './githubDemo12-navigator-title2.js'
 import Test13 from './githubDemo13-navigator-rightBtn.js'
+import Test14 from './githubDemo14-navigator-modalScreen.js'
+import Test15 from './githubDemo15-navigator-tab'
+import App from './index.app'
 /**
  * render 绘制函数
  * 第二步引出继承类
@@ -43,7 +46,7 @@ export default class chrisRN extends Component {
     render() {
         return (
             <View style={{flex:1}}>
-                <Test13/>
+                <App/>
             </View>
 
         );
